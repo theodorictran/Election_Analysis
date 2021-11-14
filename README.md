@@ -10,15 +10,15 @@ To assist the Colorado Board of Elections, I was tasked with counting votes of t
   - There were 369,111 votes casted in this congressional election.
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   - By county: Denver County had 306,055 votes making up 82.8% of total votes, Jefferson County had 38,855 votes making up 10.5% of total votes, and Arapahoe had 24,801 votes making up 6.7% of total votes.
-<img width="191" alt="county_votes" src="https://user-images.githubusercontent.com/91519293/141697974-0074be32-9708-41f9-a8b2-5fd7114d424c.png">
+  - <img width="191" alt="county_votes" src="https://user-images.githubusercontent.com/91519293/141697974-0074be32-9708-41f9-a8b2-5fd7114d424c.png">
 - Which county had the largest number of votes?
   - Denver had the largest number of votes with 306,055 votes casted. Denver accounted for 82.8% of all votes casted in this congressional election.
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - By candidate: Diana DeGette received 272,892 votes making up 73.8% of total votes, Charles Casper Stockham received 85,213 votes making up 23.0% of total votes, and Raymon Anthony Doane received 11,606 votes making up 3.1% of total votes.
-<img width="290" alt="candidate_votes" src="https://user-images.githubusercontent.com/91519293/141698045-45b5fc2c-cb7c-4491-ad82-1502e4a65b7c.png">
+  - <img width="290" alt="candidate_votes" src="https://user-images.githubusercontent.com/91519293/141698045-45b5fc2c-cb7c-4491-ad82-1502e4a65b7c.png">
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - Diana DeGette won the election having 272,892 votes which makes 73.8% of all total votes. 
-<img width="209" alt="winning_candidate" src="https://user-images.githubusercontent.com/91519293/141698133-fffd8106-8d3b-4d32-a5eb-10833a813109.png">
+  - <img width="209" alt="winning_candidate" src="https://user-images.githubusercontent.com/91519293/141698133-fffd8106-8d3b-4d32-a5eb-10833a813109.png">
 
 Below is a total summary of the election:
 
